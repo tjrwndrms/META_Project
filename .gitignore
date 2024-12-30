@@ -1,0 +1,22 @@
+# 환경 변수 파일
+.env
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# Python 파일 캐시 및 로그
+*.pyc
+__pycache__/
+*.log
+
+# 데이터베이스 파일
+*.sqlite3
+
+# Virtual environment
+.venv/
+env/
+
+# 특정 파일 또는 폴더 제외
+*.whl
+*.ttf
+
